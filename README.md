@@ -30,7 +30,7 @@ A Langflow + Python prototype of a **self-healing AI agent** that generates supp
 
 ## Notes
 - All inputs **must be `.csv`** files.
-- Update file paths via the **Folder Path** input — do **not** hard-code paths in the prompt.
+- Update file paths via the **Folder Path** input - do **not** hard-code paths in the prompt.
 
 
 ## Repo Layout
