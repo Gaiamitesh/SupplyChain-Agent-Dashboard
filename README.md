@@ -1,5 +1,5 @@
 
-# Self-Healing AI Agent for Supply Chain Dashboards
+# Recursive AI Agent for Supply Chain Dashboards
 
 A Langflow + Python prototype of a **self-healing AI agent** that generates supply chain dashboards (Excel + CSV + charts) for KPIs like **Months on Hand (MoH)**, **OTIF**, and **Logistics**.
 
